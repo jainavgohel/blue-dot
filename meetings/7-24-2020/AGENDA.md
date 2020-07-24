@@ -14,5 +14,10 @@
 - gauge of interest
 ### Design Review Crossover & Facility Sharing
 - more brainstorming
+### SmallSat 
+ - Who is going?
+ - Collaboration
+### CAD Off
+ - Gauge of Interest
 ## Feel free to edit the file and add more!
 
